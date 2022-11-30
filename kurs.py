@@ -30,7 +30,7 @@ def select_file():
 
 
     filetypes = (
-        ('text files', '*.jpg'),
+        ('Photo', '*.jpg'),
         ('All files', '*.*')
     )
 
